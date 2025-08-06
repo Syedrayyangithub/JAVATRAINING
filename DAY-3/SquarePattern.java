@@ -8,3 +8,7 @@ public class SquarePattern {
         }
     }
 }
+// this is not square pattern
+// *
+// **
+// *** its this

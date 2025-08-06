@@ -43,5 +43,6 @@ public class Panagram {
 
     }
 }
-// CHECK THE CORRECTNESS OF THE PROGRAM or use this a[97-b[i]]++; where b is the
+// CHECK THE CORRECTNESS OF THE PROGRAM or use this a[97-b[i]]++; or
+// a[97-b.charAt(i)]++where b is the
 // string like b="abcdef..."
